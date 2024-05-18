@@ -18,6 +18,6 @@ x = 10
 y = 2
 z = 5
 
-print(str(x) + '+' + str(y) + '*' + str(z) + '=' + str(x+y*z))
+print(str(x) + ' + ' + str(y) + ' * ' + str(z) + ' = ' + str(x+y*z))
 # so im converting all the variables into strings following the lab instructions
 # however the dificult part was more of converting everything into the proper string for the print
